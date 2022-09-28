@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @talianna-mazur / Tetiana Mazur 
-- 👀 I’m interested in computers, Internet, website creation 
+- 👋 Hi, I’m @talianna-mazur / Tetiana Mazur from Dnipro, Ukraine
+- 👀 I’m interested in computers, Internet, website creation, soccer
 - 🌱 I’m currently learning for Frontend Developer
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me talianna666@gmail.com
+- 💞️ I’m looking to collaborate on ?? Maybe with You?
+- 📫 How to reach me: email - talianna666@gmail.com; Instagram - https://www.instagram.com/talianna_mazur/
 
 <!---
 talianna-mazur/talianna-mazur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
